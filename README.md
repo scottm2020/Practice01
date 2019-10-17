@@ -9,7 +9,7 @@ Need to update table of Contents
 
 ## Lab Overview
 
-New to Experience Manager? This introductory session highlights its support for fluid experiences. Highlights: • Introduction to e-commerce in Experience Manager • Assets integration with Adobe Stock and custom tagging • Using workflows for fluid experiences...
+Are you new to Experience Manager? This introductory session highlights its support for fluid experiences. Highlights: • Introduction to e-commerce in Experience Manager • Assets integration with Adobe Stock and custom tagging • Using workflows for fluid experiences...
 
 ### Key Takeaways
 
